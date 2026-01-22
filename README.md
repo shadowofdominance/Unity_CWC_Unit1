@@ -30,4 +30,5 @@
 #### The camera is not following the plane!
 - Drag the `plane` game object from the hierarchy to the reference in camera's inspector.
 
-##### Yeah I typed this whole thing myself.. If you have read it so far! Thank you!
+> Yeah, I typed this whole thing myself.  
+> If you’ve read this far — thank you 🙌
