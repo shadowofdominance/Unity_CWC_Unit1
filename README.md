@@ -1,4 +1,4 @@
-# Create With Code Unit - 1
+# Create With Code Unit - 1 | Unity Version 6000.3.4f1
 
 ## *So what things did I learn from this unit??*
 - I learned the basics of the **Unity Editor** and how it works!
